@@ -88,17 +88,9 @@ void loop()
   delay(15);                           
 }
 
-
+### OUTPUT :
+### simulation:
 ![image](https://github.com/AllenSteve18/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/131678601/86324d13-5139-4c25-845e-ebb72fe897a6)
-
-
-
-
-
-
-
-
-
 
 ### RESULTS: 
 Arduino uno interfacing with servo motor is learned and angular position is controlled using PWM signal.
